@@ -49,6 +49,11 @@ body{
     background: white;
     color: black;
 }
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+}
 #imgBox{
     width: 200px;
     border-radius: 5px;
